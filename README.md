@@ -1,6 +1,6 @@
 # Background Remover
 
-This is a [Next.js](https://nextjs.org) project that allows users to remove the background from images using AI. The project is bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project that allows users to remove the background from images. The project is bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
